@@ -23,7 +23,7 @@ This is a Tableau dashboard built to analyze and visualize Analyse the profit by
 
 ## 🌐 Live Interactive Dashboard
 
-[🔗 View it on Tableau Public]([https://public.tableau.com/views/YourDashboardLinkHere](https://public.tableau.com/app/profile/anjali.jaisinghani7365/viz/AmazonSalesAnalysisDashboard_17536335797360/ItemAnalysis?publish=yes))
+[🔗 View it on Tableau Public](https://public.tableau.com/app/profile/anjali.jaisinghani7365/viz/AmazonSalesAnalysisDashboard_17536335797360/ItemAnalysis?publish=yes)
 
 ---
 
